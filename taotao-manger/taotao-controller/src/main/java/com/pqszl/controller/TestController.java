@@ -16,6 +16,6 @@ public class TestController {
     @RequestMapping("/hello")
     @ResponseBody
     public  String  testget(){
-       return  "index11";
+       return  "index00000";
     }
 }
