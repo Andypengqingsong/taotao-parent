@@ -30,10 +30,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.pqszl</groupId>
-            <artifactId>taotao-common</artifactId>
-        </dependency>
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
